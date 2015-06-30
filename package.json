@@ -1,0 +1,31 @@
+{
+  "name": "teamunlogic",
+  "version": "1.0.0",
+  "description": "A Team Unlogic Rails app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnysmithqd/teamunlogic.git"
+  },
+  "author": "johnny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnnysmithqd/teamunlogic/issues"
+  },
+  "homepage": "https://github.com/johnnysmithqd/teamunlogic#readme",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
